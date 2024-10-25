@@ -19,10 +19,10 @@ com.myfirstapp-lifecycle-runtime-2.5.1-17 C:\Users\rodri\.gradle\caches\transfor
 com.myfirstapp-lifecycle-livedata-core-2.5.1-18 C:\Users\rodri\.gradle\caches\transforms-4\ec15f5005d39440d2e709e12ce7c069c\transformed\lifecycle-livedata-core-2.5.1\res
 com.myfirstapp-jetified-autofill-1.1.0-19 C:\Users\rodri\.gradle\caches\transforms-4\f9a974fa1110ede972b7541bb0caa8eb\transformed\jetified-autofill-1.1.0\res
 com.myfirstapp-jetified-startup-runtime-1.1.1-20 C:\Users\rodri\.gradle\caches\transforms-4\fe3cbdcfd13d5dd976989fc5501c6fc3\transformed\jetified-startup-runtime-1.1.1\res
-com.myfirstapp-pngs-21 C:\Users\rodri\Desktop\DevTalles.React_Native-cli\MyFirstApp\android\app\build\generated\res\pngs\debug
-com.myfirstapp-resValues-22 C:\Users\rodri\Desktop\DevTalles.React_Native-cli\MyFirstApp\android\app\build\generated\res\resValues\debug
-com.myfirstapp-packageDebugResources-23 C:\Users\rodri\Desktop\DevTalles.React_Native-cli\MyFirstApp\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.myfirstapp-packageDebugResources-24 C:\Users\rodri\Desktop\DevTalles.React_Native-cli\MyFirstApp\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.myfirstapp-merged_res-25 C:\Users\rodri\Desktop\DevTalles.React_Native-cli\MyFirstApp\android\app\build\intermediates\merged_res\debug
-com.myfirstapp-debug-26 C:\Users\rodri\Desktop\DevTalles.React_Native-cli\MyFirstApp\android\app\src\debug\res
-com.myfirstapp-main-27 C:\Users\rodri\Desktop\DevTalles.React_Native-cli\MyFirstApp\android\app\src\main\res
+com.myfirstapp-pngs-21 C:\Users\rodri\Desktop\MyFirstApp\android\app\build\generated\res\pngs\debug
+com.myfirstapp-resValues-22 C:\Users\rodri\Desktop\MyFirstApp\android\app\build\generated\res\resValues\debug
+com.myfirstapp-packageDebugResources-23 C:\Users\rodri\Desktop\MyFirstApp\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.myfirstapp-packageDebugResources-24 C:\Users\rodri\Desktop\MyFirstApp\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.myfirstapp-merged_res-25 C:\Users\rodri\Desktop\MyFirstApp\android\app\build\intermediates\merged_res\debug
+com.myfirstapp-debug-26 C:\Users\rodri\Desktop\MyFirstApp\android\app\src\debug\res
+com.myfirstapp-main-27 C:\Users\rodri\Desktop\MyFirstApp\android\app\src\main\res

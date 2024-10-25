@@ -1405,6 +1405,42 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\rodri\\Desktop\\MyFirstApp\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
+                    },
+                    "to": {
+                        "startLines": "320",
+                        "startColumns": "4",
+                        "startOffsets": "20589",
+                        "endColumns": "47",
+                        "endOffsets": "20632"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rodri\\Desktop\\MyFirstApp\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "386",
+                        "startColumns": "4",
+                        "startOffsets": "28203",
+                        "endLines": "389",
+                        "endColumns": "12",
+                        "endOffsets": "28381"
+                    }
+                },
+                {
                     "source": "C:\\Users\\rodri\\.gradle\\caches\\transforms-4\\bcd1aaab3390fd5a0905d07d3a934f98\\transformed\\jetified-appcompat-resources-1.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -1460,42 +1496,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\rodri\\Desktop\\DevTalles.React_Native-cli\\MyFirstApp\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "386",
-                        "startColumns": "4",
-                        "startOffsets": "28203",
-                        "endLines": "389",
-                        "endColumns": "12",
-                        "endOffsets": "28381"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\rodri\\Desktop\\DevTalles.React_Native-cli\\MyFirstApp\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
-                    },
-                    "to": {
-                        "startLines": "320",
-                        "startColumns": "4",
-                        "startOffsets": "20589",
-                        "endColumns": "47",
-                        "endOffsets": "20632"
-                    }
-                },
-                {
                     "source": "C:\\Users\\rodri\\.gradle\\caches\\transforms-4\\f9a974fa1110ede972b7541bb0caa8eb\\transformed\\jetified-autofill-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,19,20,27,32,37,44,53",
@@ -1529,6 +1529,23 @@
                         "startOffsets": "17978",
                         "endColumns": "53",
                         "endOffsets": "18027"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rodri\\Desktop\\MyFirstApp\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "159",
+                        "endColumns": "63",
+                        "endOffsets": "218"
+                    },
+                    "to": {
+                        "startLines": "289",
+                        "startColumns": "4",
+                        "startOffsets": "18389",
+                        "endColumns": "63",
+                        "endOffsets": "18448"
                     }
                 },
                 {
@@ -1603,23 +1620,6 @@
                         "endLines": "30,31,200,201,202,235,236,237,238,239,240,241,248,249,252,255,256,275,276,278,279,318,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,360,361,362,363,364,365,366,367,369,370,371,372,381,385,1476,1479,1483,1487,1705,1708,1782,1829,1838,1845,1852,1855,1858,1861,1867,1870,2023",
                         "endColumns": "62,62,50,53,58,47,48,48,47,48,57,48,49,40,43,42,33,38,45,53,47,116,122,95,119,119,101,139,121,109,106,102,110,168,167,116,118,112,185,107,112,90,110,168,97,124,94,106,169,97,182,172,111,100,158,133,139,101,104,130,168,116,147,144,149,98,95,195,182,98,183,166,10,10,12,12,10,10,12,12,25,34,10,10,10,10,10,12,12,12,10",
                         "endOffsets": "2196,2259,13634,13688,13747,15705,15754,15803,15851,15900,15958,16007,16353,16394,16508,16647,16681,17690,17736,17822,17870,20501,20755,20851,20971,21091,21193,21333,21455,21565,21672,21775,21886,22055,22223,22340,22459,22572,22758,22866,22979,23070,23181,23350,23448,23573,23668,23775,23945,24043,24226,24399,24511,24612,24771,24905,25045,25147,25252,25383,25605,25722,25870,26015,26165,26264,26360,26556,26810,26909,27093,27260,27950,28198,97647,97832,98034,98240,113613,113802,120728,123782,124320,124738,125116,125293,125472,125655,126020,126217,137342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\rodri\\Desktop\\DevTalles.React_Native-cli\\MyFirstApp\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
-                    "from": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "159",
-                        "endColumns": "63",
-                        "endOffsets": "218"
-                    },
-                    "to": {
-                        "startLines": "289",
-                        "startColumns": "4",
-                        "startOffsets": "18389",
-                        "endColumns": "63",
-                        "endOffsets": "18448"
                     }
                 },
                 {
